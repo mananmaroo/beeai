@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+bee-framework
+beeai-framework
+pandas
+joblib
+scikit-learn
+wikipedia-api
+openmeteo-py
+gunicorn
